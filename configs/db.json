@@ -1,0 +1,11 @@
+{
+  "user": "root",
+  "pass": "123456",
+  "data": "mysql",
+  "conn": {
+    "type": "tcp",
+    "ip": "127.0.0.1",
+    "port": "3306",
+    "data_base": "diaper"
+  }
+}

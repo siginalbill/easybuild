@@ -1,0 +1,48 @@
+{
+  "dics": [
+    {
+      "name": "config",
+      "describe": "存放配置文件，及相应驱动"
+    },
+    {
+      "name": "controllers",
+      "describe": "控制逻辑+功能处理"
+    },
+    {
+      "name": "dao",
+      "describe": "与数据库交互的通用工具"
+    },
+    {
+      "name": "datasource",
+      "describe": "建立数据库连接"
+    },
+    {
+      "name": "main",
+      "describe": "程序入口"
+    },
+    {
+      "name": "middleware",
+      "describe": "拦截器或其他插件"
+    },
+    {
+      "name": "models",
+      "describe": "数据模型"
+    },
+    {
+      "name": "services",
+      "describe": "对dao的细节封装"
+    },
+    {
+      "name": "util",
+      "describe": "可能用到的工具函数"
+    },
+    {
+      "name": "web",
+      "describe": "静态文件存放位置"
+    }
+  ],
+  "root": {
+    "name": "src",
+    "describe": "根目录"
+  }
+}
